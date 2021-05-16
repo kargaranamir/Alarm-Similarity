@@ -24,7 +24,7 @@ ipython
 
 ## Files
 
-| Plugin | Description |
+| File | Description |
 | ------ | ------ |
 | Main.ipynb | main file to compute similarities |
 | F_2d.ipunb | f2d function and its special cases |
@@ -43,7 +43,7 @@ If you find our work useful in your research, please consider citing:
 }
 
 @article{kargaran2020analytical,
-  title={Analytical Derivation and Comparison of Alarm Similarity Analysis Methods},
+  title={Analytical Derivation and Comparison of Alarm Similarity Analysis Measures},
   author={Kargaran, Amir Hossein and Neshastegaran, Amir and Izadi, Iman and Yazdian, Ehsan},
   journal={IFAC-PapersOnLine},
   volume={},
