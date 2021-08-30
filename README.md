@@ -1,8 +1,6 @@
 # Analytical-Derivation-and-Comparison-of-Alarm-Similarity-Analysis-Methods
 #### _Analytical Derivation and Comparison of Alarm Similarity Analysis Methods Paper Code_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ## Features
 
 - Compute different alarm similarity methods in analytic and simulation ways
