@@ -33,20 +33,13 @@ ipython
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@inproceedings{@article{kargaran2020analytical,
-  title={Analytical Derivation and Comparison of Alarm Similarity Analysis Methods},
-  author={Kargaran, Amir Hossein and Neshastegaran, Amir and Izadi, Iman and Yazdian, Ehsan},
-  journal={arXiv preprint arXiv:2003.10600},
-  year={2020}
-}
-
-@article{kargaran2020analytical,
-  title={Analytical Derivation and Comparison of Alarm Similarity Analysis Measures},
+@article{kargaran2021analytical,
+  title={Analytical Derivation and Comparison of Alarm Similarity Measures},
   author={Kargaran, Amir Hossein and Neshastegaran, Amir and Izadi, Iman and Yazdian, Ehsan},
   journal={IFAC-PapersOnLine},
-  volume={},
-  number={},
-  pages={--},
+  volume={54},
+  number={3},
+  pages={360--365},
   year={2021},
   publisher={Elsevier}
 }
