@@ -1,5 +1,5 @@
-# Analytical-Derivation-and-Comparison-of-Alarm-Similarity-Analysis-Methods
-#### _Analytical Derivation and Comparison of Alarm Similarity Analysis Methods Paper Code_
+# Analytical-Derivation-and-Comparison-of-Alarm-Similarity-Measures
+#### _Analytical Derivation and Comparison of Alarm Similarity Measures Paper Code_
 
 ## Features
 
